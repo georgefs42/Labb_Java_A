@@ -1,0 +1,10 @@
+Dice-game
+
+- Scanner
+- Players (minimum 2)
+- Amount of dice
+- Username
+
+Rules:
+- Each round, each player: throw dice (die)
+- Most point = win
